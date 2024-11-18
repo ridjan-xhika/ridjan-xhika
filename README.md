@@ -41,7 +41,7 @@ Here are some of the tools and technologies I work with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ridjan-xhika-8a0a312ab)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/Lost_Jokerr)  
-[![Contact](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=web)](https://linktr.ee/Lost_Joker)  
+[![Link Tree](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=web)](https://linktr.ee/Lost_Joker)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ridjan.xhika@epitech.eu)
 
 ---
