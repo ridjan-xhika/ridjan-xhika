@@ -48,7 +48,7 @@ Here are some of the tools and technologies I work with:
 
 ## 💡 Fun Facts
 
-- 🐾 I always pudh at the last second.  
+- 🐾 I always push at the last second.  
 - 🎵 I love listening to hardstyle or NF.  
 - 🌍 Exploring reading and martial arts.  
 
