@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Joker!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=ridjan-xhika&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/ridjan-xhika?label=Follow&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/ridjan-xhika?label=Stars&style=social)
 
 Welcome to my GitHub profile! I’m a **Student at epitech** passionate about **cybersecurity and low level languages such as C**. I enjoy building innovative solutions, learning new technologies, and sharing my knowledge.
 
