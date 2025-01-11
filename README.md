@@ -31,7 +31,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=toro-nicolas&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ridjan-xhika&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridjan-xhika&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridjan-xhika&layout=compact&theme=radical)
 
