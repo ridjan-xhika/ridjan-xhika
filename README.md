@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a **Student at epitech** passionate about **
 
 ## 🌟 About Me
 
-- 💻 **Currently working on:** a Web project  
+- 💻 **Currently working on:** Your Mom
 - 🌱 **Learning:** Web developement
 - 🎯 **Goals for this year:** Build a mensenger webapp like discord
 - 💬 **Ask me about:** anything 
