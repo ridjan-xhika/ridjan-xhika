@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a **Student at epitech** passionate about **
 
 ## 🌟 About Me
 
-- 💻 **Currently working on:** <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2933074" style='border:none;'></iframe>
+- 💻 **Currently working on:** 
 - 🌱 **Learning:** Web developement
 - 🎯 **Goals for this year:** Build a mensenger webapp like discord
 - 💬 **Ask me about:** anything 
