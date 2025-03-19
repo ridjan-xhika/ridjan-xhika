@@ -6,7 +6,8 @@
 
 Welcome to my GitHub profile! I’m a **Student at Epitech** passionate about **cybersecurity and low-level languages such as C**. I enjoy building innovative solutions, learning new technologies, and sharing my knowledge.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2933074" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2933074.png)
+
 
 ---
 
