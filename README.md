@@ -6,7 +6,8 @@
 
 Welcome to my GitHub profile! I’m a **Student at Epitech** passionate about **cybersecurity and low-level languages such as C**. I enjoy building innovative solutions, learning new technologies, and sharing my knowledge.
 
-![HTB Badge](https://www.hackthebox.eu/badge/image/42767)
+![HTB](https://img.shields.io/badge/HTB-44CDC9C4D5-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white)
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ArkanaJoker.png" alt="Your Image Badge" />
 
