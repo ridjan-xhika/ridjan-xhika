@@ -3,7 +3,7 @@
 ![Cybersecurity Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Joker&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white)
   
 # 👋 Hey, I'm **Joker**  
-**Cybersecurity Specialist • Low-Level C Wizard • Web Development Explorer**
+**Cybersecurity Enjoyer • Low-Level C Wizard • Web Development Explorer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ridjan-xhika&color=blueviolet&style=flat-square)](https://github.com/ridjan-xhika)
 [![GitHub Followers](https://img.shields.io/github/followers/ridjan-xhika?label=Followers&style=flat-square&color=orange)](https://github.com/ridjan-xhika?tab=followers)
