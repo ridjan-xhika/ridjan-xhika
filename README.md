@@ -131,7 +131,7 @@ React      ██████░░░░░░░░  40%
 
 <div align="center">
   
-Currently listening to: **Everytime We Touch (Nightcore)** by **Cascada** 🎵
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/album/7cpdHFI1QRqKG9OmXJ0G9V)
 
 </div>
 
