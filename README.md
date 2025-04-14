@@ -94,7 +94,7 @@ Watch how my GitHub contributions feed the snake! The darker the green, the more
   
 ```text
 C          █████████░░░░░  65%
-JavaScript ██████░░░░░░░░  40% 
+ JavaScript ██████░░░░░░░░  40% 
 Python     ████░░░░░░░░░░  25%
 Bash       ███░░░░░░░░░░░  15%
 React      ██████░░░░░░░░  40%
