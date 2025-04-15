@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ridjan-xhika&color=blueviolet&style=flat-square)](https://github.com/ridjan-xhika)
 [![GitHub Followers](https://img.shields.io/github/followers/ridjan-xhika?label=Followers&style=flat-square&color=orange)](https://github.com/ridjan-xhika?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/ridjan-xhika?label=Stars&style=flat-square&color=yellow)](https://github.com/ridjan-xhika?tab=repositories)
-[![Epitech Student](https://img.shields.io/badge/Epitech-Student-blue?style=flat-square&logo=42)](https://www.epitech.eu/)
+[![Epitech Student](https://img.shields.io/badge/Epitech-Student-blue?style=flat-square&logo=)](https://www.epitech.eu/)
 
 </div>
 
