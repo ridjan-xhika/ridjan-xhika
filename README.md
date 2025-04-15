@@ -164,7 +164,7 @@ React      ██████░░░░░░░░  40%
 I'm always open to interesting projects and collaboration opportunities, especially in cybersecurity and innovative web applications. If you have an idea that could use my skills, or just want to chat about tech, drop me a message!
 
 <div align="center">
-  <img src="https://giphy.com/gifs/archies-nft-archway-KLflvxPBhgQg2BuPY1" alt="Let's Collaborate" width="300" />
+  <img src="https://media.giphy.com/media/3oKIPeQ5Uz4gU6ID6g/giphy.gif" alt="Let's Collaborate" width="300" />
   
   > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
