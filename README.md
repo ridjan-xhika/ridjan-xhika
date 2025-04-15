@@ -119,8 +119,8 @@ React      ██████░░░░░░░░  40%
 
 <div align="center">
   
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Ranked_Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/)
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Ranked_Top_99%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-Noob_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/)
 [![CTF Badge](https://img.shields.io/badge/CTF_Player-Elite-blue?style=for-the-badge&logo=counter-strike&logoColor=white)](https://ctftime.org/)
 
 </div>
