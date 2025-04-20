@@ -61,6 +61,12 @@ Hey there! I'm an **Epitech Student** with an insatiable curiosity for cybersecu
 
 ---
 
+## 🏆 Certificates
+
+![DawgCTF 2025 Certificate](./assets/DawgCTF_2025_Certificate.png)
+
+---
+
 ## 🐍 Contribution Snake
 
 Watch how my GitHub contributions feed the snake! The darker the green, the more commits that day.
