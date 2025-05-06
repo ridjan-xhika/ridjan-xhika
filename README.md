@@ -152,7 +152,7 @@ React      ██████░░░░░░░░  40%
   <a href="https://twitter.com/Lost_Jokerr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>  
   </a>
-  <a href="https://linktr.ee/Lost_Joker" target="_blank">
+  <a href="https://ridjan-xhika.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:ridjan.xhika@epitech.eu">
