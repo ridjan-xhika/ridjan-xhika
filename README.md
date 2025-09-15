@@ -180,6 +180,11 @@
 
 <div align="center">
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Player-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ridjan.xhika)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/)
+[![CTF Team](https://img.shields.io/badge/CTF_Team-Lil_Leak-FF6B6B?style=for-the-badge&logo=flagsmith&logoColor=white)](https://ctftime.org/)
+[![Competitions](https://img.shields.io/badge/Competition-Winner-FFD93D?style=for-the-badge&logo=trophy&logoColor=black)](#)
+
 **🎯 Competition Highlights:**
 - 🥇 **Multiple 1st Place finishes** in CTF competitions
 - 🛡️ **Active member** of CTF team "Lil Leak"
@@ -192,6 +197,7 @@
 
 <div align="center">
 
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ridjan.xhika&unique={true})](https://open.spotify.com/user/ridjan.xhika)
 
 **🎵 Coding Playlists:**
 - 🤖 **[Cyberpunk Coding](https://open.spotify.com/playlist/cyberpunk)** - For intense debugging sessions
