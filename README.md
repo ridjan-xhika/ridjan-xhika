@@ -124,7 +124,7 @@
 - Advanced cryptography implementation
 - Real-time communication
 
-[![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ridjan-xhika&repo=secure-messenger&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/ridjan-xhika/secure-messenger)
+[![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ridjan-xhika&repo=secure-messenger&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/ridjan-xhika/V.I.S.A.G.E)
 
 </td>
 <td width="50%">
@@ -135,7 +135,7 @@
 - Custom payload generation
 - Comprehensive reporting system
 
-[![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ridjan-xhika&repo=vulnerability-scanner&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/ridjan-xhika/vulnerability-scanner)
+[![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ridjan-xhika&repo=vulnerability-scanner&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/ridjan-xhika/EagleEye)
 
 </td>
 </tr>
@@ -179,12 +179,7 @@
 ## 🏆 Cybersecurity Achievements
 
 <div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Player-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ridjan.xhika)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/)
-[![CTF Team](https://img.shields.io/badge/CTF_Team-Lil_Leak-FF6B6B?style=for-the-badge&logo=flagsmith&logoColor=white)](https://ctftime.org/)
-[![Competitions](https://img.shields.io/badge/Competition-Winner-FFD93D?style=for-the-badge&logo=trophy&logoColor=black)](#)
-
+  
 **🎯 Competition Highlights:**
 - 🥇 **Multiple 1st Place finishes** in CTF competitions
 - 🛡️ **Active member** of CTF team "Lil Leak"
