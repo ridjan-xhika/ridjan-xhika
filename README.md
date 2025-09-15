@@ -102,7 +102,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ridjan-xhika/ridjan-xhika/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ridjan-xhika/ridjan-xhika/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
