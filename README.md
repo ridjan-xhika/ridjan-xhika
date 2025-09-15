@@ -110,7 +110,7 @@
 
 ---
 
-## 💡 Featured Projects  
+## 💡 Featured Projects
 
 <div align="center">
 
@@ -118,30 +118,34 @@
 <tr>
 <td width="50%" align="center">
 
-### 🔐 Secure Messenger  
-- 🔒 End-to-end encrypted chat application  
-- ⚛️ Built with **React** & **Node.js**  
-- 🧩 Advanced cryptography implementation  
-- ⚡ Real-time secure communication  
+### 🔭 V.I.S.A.G.E — AI Security Camera  
+- 🧠 AI-powered facial recognition & motion detection  
+- 📹 Live MJPEG streaming (ESP32-CAM or USB webcam) with Flask backend  
+- 🤖 OpenCV detection pipeline + local SQLite logging (optional Google Drive backup)  
+- 📲 Instant notifications & remote control via Telegram Bot (snapshots, clips, commands)  
+- 🛠️ Key tech: **Python**, **Flask**, **OpenCV**, **Telegram Bot API**, **SQLite**  
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridjan-xhika/V.I.S.A.G.E)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridjan-xhika/V.I.S.A.G.E)  
+*More details & setup are in the repo.*. :contentReference[oaicite:0]{index=0}
 
 </td>
 <td width="50%" align="center">
 
-### 🕵️ Vulnerability Scanner  
-- 🕵️ Automated **web security scanner**  
-- ⚡ Multi-threaded **C implementation**  
-- 🎯 Custom payload generation  
-- 📑 Comprehensive vulnerability reports  
+### 🦅 EagleEye — Packet Sniffer (WIP)  
+- 🔎 Ongoing packet-sniffing / network analysis project built with an Electron frontend + C backend  
+- ⚙️ Designed for local analysis, parsing raw packets and visualizing traffic in a desktop UI  
+- ⚠️ Ethical-first: intended for research and authorized testing only (see repo disclaimer)  
+- 🛠️ Key tech: **C**, **Electron**, **Node.js** (IPC between UI & native modules)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridjan-xhika/EagleEye)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridjan-xhika/EagleEye)  
+*Active development — roadmap and ethical usage notes in repo.* :contentReference[oaicite:1]{index=1}
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 
 ---
