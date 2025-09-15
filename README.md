@@ -197,8 +197,6 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ridjan.xhika&unique={true})](https://open.spotify.com/user/ridjan.xhika)
-
 **🎵 Coding Playlists:**
 - 🤖 **[Cyberpunk Coding](https://open.spotify.com/playlist/cyberpunk)** - For intense debugging sessions
 - 🌊 **[Lo-Fi Development](https://open.spotify.com/playlist/lofi)** - For creative coding flows
