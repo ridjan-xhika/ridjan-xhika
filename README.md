@@ -180,18 +180,16 @@
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_5%25_Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ridjan.xhika)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/)
-[![CTF](https://img.shields.io/badge/CTF_Player-Elite_Rank-FF6B6B?style=for-the-badge&logo=flagsmith&logoColor=white)](https://ctftime.org/)
-[![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Active_Hunter-4ECDC4?style=for-the-badge&logo=hackerone&logoColor=white)](#)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Player-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ridjan.xhika)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/)
+[![CTF Team](https://img.shields.io/badge/CTF_Team-Lil_Leak-FF6B6B?style=for-the-badge&logo=flagsmith&logoColor=white)](https://ctftime.org/)
+[![Competitions](https://img.shields.io/badge/Competition-Winner-FFD93D?style=for-the-badge&logo=trophy&logoColor=black)](#)
 
-**🎯 Recent Achievements:**
-- 🥇 1st Place in Regional CTF Competition 2024
-- 🔍 Discovered 15+ security vulnerabilities in web applications
-- 📜 Certified Ethical Hacker (CEH) in progress
-- 🛡️ Contributed to 3 open-source security tools
-
-</div>
+**🎯 Competition Highlights:**
+- 🥇 **Multiple 1st Place finishes** in CTF competitions
+- 🛡️ **Active member** of CTF team "Lil Leak"
+- 🏆 **Consistent top performer** in cybersecurity challenges  
+- 🎮 **Active competitor** on TryHackMe & HackTheBox platforms
 
 ---
 
