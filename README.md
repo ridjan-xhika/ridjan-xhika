@@ -110,38 +110,39 @@
 
 ---
 
-## 💡 Featured Projects
+## 💡 Featured Projects  
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**🔐 Secure Messenger**
-- End-to-end encrypted chat application
-- Built with React & Node.js
-- Advanced cryptography implementation
-- Real-time communication
+### 🔐 Secure Messenger  
+- 🔒 End-to-end encrypted chat application  
+- ⚛️ Built with **React** & **Node.js**  
+- 🧩 Advanced cryptography implementation  
+- ⚡ Real-time secure communication  
 
-[![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ridjan-xhika&repo=secure-messenger&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/ridjan-xhika/V.I.S.A.G.E)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridjan-xhika/V.I.S.A.G.E)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**🕵️ Vulnerability Scanner**
-- Automated web application security scanner
-- Multi-threaded C implementation
-- Custom payload generation
-- Comprehensive reporting system
+### 🕵️ Vulnerability Scanner  
+- 🕵️ Automated **web security scanner**  
+- ⚡ Multi-threaded **C implementation**  
+- 🎯 Custom payload generation  
+- 📑 Comprehensive vulnerability reports  
 
-[![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ridjan-xhika&repo=vulnerability-scanner&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/ridjan-xhika/EagleEye)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ridjan-xhika/EagleEye)
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
