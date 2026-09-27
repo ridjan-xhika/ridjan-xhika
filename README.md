@@ -1,43 +1,42 @@
 <div align="center">
 
-# Ridjan Xhika
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:17324D,100:0F766E&height=220&section=header&text=RIDJAN%20XHIKA&fontSize=48&fontAlignY=38&fontColor=F8FAFC&animation=fadeIn&desc=SOFTWARE%20%7C%20SECURITY%20%7C%20SYSTEMS&descAlignY=58&descSize=15" alt="Ridjan Xhika — software, security, systems" />
 
-### Software developer · Epitech student
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=560&lines=Building+useful+tools+and+apps;Exploring+systems+and+security;Writing+C%2C+Rust%2C+Python+and+TypeScript" alt="Building useful tools and apps; exploring systems and security; writing C, Rust, Python and TypeScript" />
 
-Interested in cybersecurity, systems programming, and building useful software.
-
-[Portfolio](https://ridjan-xhika.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/ridjan-xhika-8a0a312ab) · [GitHub projects](https://github.com/ridjan-xhika?tab=repositories)
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<p>
+  <a href="https://ridjan-xhika.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ridjan-xhika-8a0a312ab">LinkedIn</a> ·
+  <a href="https://github.com/ridjan-xhika?tab=repositories">Projects</a>
+</p>
 
 </div>
 
----
-
 ## About
 
-I enjoy exploring how software works—from low-level code to the interface people use. I build projects to learn, with a particular interest in Linux, cybersecurity, and systems programming. CTFs are one way I practice security concepts in a controlled environment.
+I’m an Epitech student interested in cybersecurity, systems programming, and building useful software. I enjoy exploring how things work—from low-level code to the applications people use—and learning through hands-on projects and authorized CTFs.
+
+**Languages and tools:** C · Rust · Python · JavaScript · TypeScript · Linux · Git
 
 ## Selected projects
 
-| Project | What it is |
+| Project | Description |
 | --- | --- |
-| [JKI](https://github.com/ridjan-xhika/JKI) | A Linux voice companion for Codex, with local wake-word recognition, speech, and optional music controls. |
+| [JKI](https://github.com/ridjan-xhika/JKI) | A Linux voice companion for Codex with local speech recognition, an animated desktop orb, and optional music controls. |
 | [MyGimp](https://github.com/ridjan-xhika/MyGimp) | A GPU-powered pixel editor written in Rust with `wgpu` and `winit`. |
-| [EagleEye](https://github.com/ridjan-xhika/EagleEye) | A C project for educational network-security research. Use only on systems you own or have permission to test. |
-| [Portfolio](https://ridjan-xhika.github.io/portfolio/) | My personal portfolio site. |
+| [EagleEye](https://github.com/ridjan-xhika/EagleEye) | A C project for educational network-security research. |
+| [Portfolio](https://ridjan-xhika.github.io/portfolio/) | My personal portfolio website. |
 
-## What I like working on
+## Contribution trail
 
-- Security tools and learning through authorized CTFs
-- Systems programming and performance-focused code
-- Desktop apps and practical developer tools
-- Open-source projects that make technical ideas easier to explore
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="assets/github-contribution-grid-snake.svg" />
+</picture>
 
-## Get in touch
+The snake is refreshed daily by [GitHub Actions](.github/workflows/snake.yml). You can also run the workflow manually from the **Actions** tab.
 
-Take a look at my [projects](https://github.com/ridjan-xhika?tab=repositories), visit my [portfolio](https://ridjan-xhika.github.io/portfolio/), or connect with me on [LinkedIn](https://linkedin.com/in/ridjan-xhika-8a0a312ab).
+## Say hello
+
+Explore my [repositories](https://github.com/ridjan-xhika?tab=repositories), visit my [portfolio](https://ridjan-xhika.github.io/portfolio/), or connect on [LinkedIn](https://linkedin.com/in/ridjan-xhika-8a0a312ab).
