@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+<title id="title">Coding soundtrack — Best of Anime Now 2025, curated by Spotify. Open playlist on Spotify.</title>
+<desc id="desc">Original artwork for Ridjan Xhika's GitHub profile. Animations respect reduced-motion preferences.</desc>
+<style>
+text { font-family: Inter,Segoe UI,Arial,sans-serif; }
+.mono { font-family: ui-monospace,SFMono-Regular,Consolas,monospace; }
+.b0 { transform-origin:682px 113px; animation:level 1.3s ease-in-out infinite; }.b1 { transform-origin:693px 113px; animation:level 1.4300000000000002s ease-in-out infinite; }.b2 { transform-origin:704px 113px; animation:level 1.56s ease-in-out infinite; }.b3 { transform-origin:715px 113px; animation:level 1.69s ease-in-out infinite; }.b4 { transform-origin:726px 113px; animation:level 1.82s ease-in-out infinite; }.b5 { transform-origin:737px 113px; animation:level 1.9500000000000002s ease-in-out infinite; }.b6 { transform-origin:748px 113px; animation:level 2.08s ease-in-out infinite; }.b7 { transform-origin:759px 113px; animation:level 2.21s ease-in-out infinite; }.b8 { transform-origin:770px 113px; animation:level 2.34s ease-in-out infinite; }.b9 { transform-origin:781px 113px; animation:level 2.4699999999999998s ease-in-out infinite; }.b10 { transform-origin:792px 113px; animation:level 2.6s ease-in-out infinite; }.b11 { transform-origin:803px 113px; animation:level 2.7300000000000004s ease-in-out infinite; }
+@keyframes level { 50% { transform:scaleY(.35);opacity:.45; } }
+.star { animation:shoot 9s ease-in-out infinite; }
+@keyframes shoot { 0%,70%,100% { opacity:0;transform:translate(0,0); } 75% { opacity:.8; } 90% { opacity:0;transform:translate(72px,45px); } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs>
+<linearGradient id="music" x2="1" y2=".4"><stop stop-color="#101e26"/><stop offset="1" stop-color="#0b1821"/></linearGradient>
+<linearGradient id="sleeve" x2="1" y2="1"><stop stop-color="#36567c"/><stop offset=".5" stop-color="#222c53"/><stop offset="1" stop-color="#487a7a"/></linearGradient>
+<clipPath id="cover"><rect x="24" y="24" width="176" height="176" rx="12"/></clipPath>
+</defs>
+<rect x="1" y="1" width="958" height="222" rx="20" fill="url(#music)" stroke="#284334"/>
+<g clip-path="url(#cover)">
+<rect x="24" y="24" width="176" height="176" fill="url(#sleeve)"/>
+<circle cx="144" cy="69" r="28" fill="#e4f2ca" opacity=".85"/>
+<circle cx="153" cy="59" r="27" fill="#303d63"/>
+<path d="M24 177V144H45V164H63V124H79V140H90V110H114V154H128V135H150V161H161V119H178V144H200V200H24Z" fill="#101d32"/>
+<path d="M66 145H73M98 130H105M98 140H105M166 139H174M167 151H174" stroke="#83d6c7" stroke-width="2" opacity=".7"/>
+<path class="star" d="M47 71L87 45" stroke="#c6eaff" stroke-width="1.5" stroke-linecap="round"/>
+<text x="38" y="189" font-size="10" fill="#edf5f5" font-weight="600" class="mono" letter-spacing="1.4">AFTER HOURS</text>
+</g>
+<circle cx="235" cy="39" r="4" fill="#1ed760"/>
+<text x="249" y="43" font-size="11" fill="#8ce7a6" font-weight="600" class="mono" letter-spacing="1">THE CODING SOUNDTRACK</text>
+<text x="231" y="87" font-size="31" fill="#edf5f5" font-weight="700" >Anime on repeat.</text>
+<text x="232" y="115" font-size="18" fill="#c0d2d7" font-weight="400" >Best of Anime Now 2025</text>
+<text x="232" y="140" font-size="13" fill="#9aafbe" font-weight="400" >A featured playlist, curated by Spotify.</text>
+<rect x="232" y="162" width="165" height="34" rx="17" fill="#1ed760"/>
+<path d="M248 173L248 185L258 179Z" fill="#0b2012"/>
+<text x="268" y="184" font-size="12" fill="#0b2012" font-weight="650" >Open on Spotify</text>
+<rect class="bar b0" x="680" y="96" width="5" height="17" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b1" x="691" y="84" width="5" height="29" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b2" x="702" y="91" width="5" height="22" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b3" x="713" y="66" width="5" height="47" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b4" x="724" y="80" width="5" height="33" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b5" x="735" y="52" width="5" height="61" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b6" x="746" y="68" width="5" height="45" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b7" x="757" y="84" width="5" height="29" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b8" x="768" y="74" width="5" height="39" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b9" x="779" y="93" width="5" height="20" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b10" x="790" y="81" width="5" height="32" rx="2" fill="#1ed760" opacity=".8"/><rect class="bar b11" x="801" y="100" width="5" height="13" rx="2" fill="#1ed760" opacity=".8"/>
+<circle cx="890" cy="178" r="21" fill="none" stroke="#638d79" stroke-opacity=".45"/>
+<path d="M883 178H897M891 172L897 178L891 184" fill="none" stroke="#96cba7" stroke-width="1.5" stroke-linecap="round"/>
+
+</svg>

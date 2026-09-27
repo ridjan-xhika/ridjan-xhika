@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="88" viewBox="0 0 960 88" role="img" aria-labelledby="title desc">
+<title id="title">Thanks for stopping by. Keep building. Keep learning.</title>
+<desc id="desc">Original artwork for Ridjan Xhika's GitHub profile. Animations respect reduced-motion preferences.</desc>
+<style>
+text { font-family: Inter,Segoe UI,Arial,sans-serif; }
+.mono { font-family: ui-monospace,SFMono-Regular,Consolas,monospace; }
+.pulse { animation:pulse 3s ease-in-out infinite; } @keyframes pulse { 50% { opacity:.3; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<path d="M0 1H960" stroke="#294554"/>
+<text x="0" y="38" font-size="13" fill="#65e1c6" font-weight="600" class="mono" letter-spacing="1.4">KEEP BUILDING. KEEP LEARNING.</text>
+<text x="0" y="65" font-size="13" fill="#9aafbe" font-weight="400" >Thanks for stopping by — Ridjan</text>
+<g fill="#65e1c6"><circle cx="908" cy="48" r="3" opacity=".3"/><circle cx="925" cy="48" r="3" opacity=".6"/><circle cx="942" cy="48" r="3" class="pulse"/></g>
+
+</svg>

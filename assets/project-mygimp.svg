@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="468" height="214" viewBox="0 0 468 214" role="img" aria-labelledby="title desc">
+<title id="title">MyGimp — A GPU-powered pixel editor in Rust. Draw, paint and turn pixels into ideas.</title>
+<desc id="desc">Original artwork for Ridjan Xhika's GitHub profile. Animations respect reduced-motion preferences.</desc>
+<style>
+text { font-family: Inter,Segoe UI,Arial,sans-serif; }
+.mono { font-family: ui-monospace,SFMono-Regular,Consolas,monospace; }
+.pixel { animation:pixel 4s ease-in-out infinite; } @keyframes pixel { 50% { opacity:.2; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111e2f"/><stop offset="1" stop-color="#0b1220"/></linearGradient></defs>
+<rect x="1" y="1" width="466" height="212" rx="17" fill="url(#surface)" stroke="#26364b"/>
+<path d="M24 26H48" stroke="#b9a6ff" stroke-width="3" stroke-linecap="round"/>
+<text x="24" y="53" font-size="10" fill="#b9a6ff" font-weight="600" class="mono" letter-spacing="1.2">02 — CREATIVE TOOLS</text>
+<text x="24" y="91" font-size="29" fill="#edf5f5" font-weight="700" >MyGimp</text>
+<text x="24" y="126" font-size="14" fill="#9aafbe" font-weight="400" >A GPU-powered pixel editor in Rust.</text>
+<text x="24" y="148" font-size="14" fill="#9aafbe" font-weight="400" >Draw, paint and turn pixels into ideas.</text>
+<path d="M24 169H444" stroke="#223347"/>
+<text x="24" y="192" font-size="11" fill="#b9a6ff" font-weight="500" class="mono">RUST · WGPU · WINIT</text>
+<text x="425" y="192" font-size="19" fill="#b9a6ff" font-weight="400" >↗</text>
+<g transform="translate(365 32)"><rect class="pixel" x="0" y="0" width="10" height="10" rx="2" fill="#b9a6ff" opacity="0.25" style="animation-delay:-0.0s"/><rect class="pixel" x="13" y="0" width="10" height="10" rx="2" fill="#65e1c6" opacity="0.45" style="animation-delay:-0.25s"/><rect class="pixel" x="26" y="0" width="10" height="10" rx="2" fill="#8cb8ff" opacity="0.65" style="animation-delay:-0.5s"/><rect class="pixel" x="39" y="0" width="10" height="10" rx="2" fill="#b9a6ff" opacity="0.8500000000000001" style="animation-delay:-0.75s"/><rect class="pixel" x="0" y="13" width="10" height="10" rx="2" fill="#65e1c6" opacity="0.25" style="animation-delay:-1.0s"/><rect class="pixel" x="13" y="13" width="10" height="10" rx="2" fill="#8cb8ff" opacity="0.45" style="animation-delay:-1.25s"/><rect class="pixel" x="26" y="13" width="10" height="10" rx="2" fill="#b9a6ff" opacity="0.65" style="animation-delay:-1.5s"/><rect class="pixel" x="39" y="13" width="10" height="10" rx="2" fill="#65e1c6" opacity="0.8500000000000001" style="animation-delay:-1.75s"/><rect class="pixel" x="0" y="26" width="10" height="10" rx="2" fill="#8cb8ff" opacity="0.25" style="animation-delay:-2.0s"/><rect class="pixel" x="13" y="26" width="10" height="10" rx="2" fill="#b9a6ff" opacity="0.45" style="animation-delay:-2.25s"/><rect class="pixel" x="26" y="26" width="10" height="10" rx="2" fill="#65e1c6" opacity="0.65" style="animation-delay:-2.5s"/><rect class="pixel" x="39" y="26" width="10" height="10" rx="2" fill="#8cb8ff" opacity="0.8500000000000001" style="animation-delay:-2.75s"/><rect class="pixel" x="0" y="39" width="10" height="10" rx="2" fill="#b9a6ff" opacity="0.25" style="animation-delay:-3.0s"/><rect class="pixel" x="13" y="39" width="10" height="10" rx="2" fill="#65e1c6" opacity="0.45" style="animation-delay:-3.25s"/><rect class="pixel" x="26" y="39" width="10" height="10" rx="2" fill="#8cb8ff" opacity="0.65" style="animation-delay:-3.5s"/><rect class="pixel" x="39" y="39" width="10" height="10" rx="2" fill="#b9a6ff" opacity="0.8500000000000001" style="animation-delay:-3.75s"/></g>
+</svg>
