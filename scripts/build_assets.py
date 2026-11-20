@@ -3,13 +3,13 @@ from html import escape
 from pathlib import Path
 
 ASSETS = Path(__file__).resolve().parent.parent / 'assets'
-BG = '#0b1220'
-INK = '#edf5f5'
-MUTED = '#9aafbe'
-TEAL = '#65e1c6'
-BLUE = '#8cb8ff'
-PURPLE = '#b9a6ff'
-FONT = 'Inter,Segoe UI,Arial,sans-serif'
+BG = '#101411'
+INK = '#f0f2e9'
+MUTED = '#a7ae9f'
+TEAL = '#d2f7ab'
+BLUE = '#a9dd84'
+PURPLE = '#86c95a'
+FONT = 'Space Grotesk,Inter,Segoe UI,Arial,sans-serif'
 MONO = 'ui-monospace,SFMono-Regular,Consolas,monospace'
 
 
@@ -37,25 +37,25 @@ def hero():
                     for x, y, r in [(580,46,1),(883,64,2),(622,250,1),(855,260,1),(522,292,1),(680,34,2),(922,200,1),(550,143,1)])
     svg('hero.svg', 960, 340, 'Ridjan Xhika — software, security and systems', f'''
 <defs>
-  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0e1929"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
-  <radialGradient id="halo"><stop stop-color="#3cbcaf" stop-opacity=".2"/><stop offset="1" stop-color="#3cbcaf" stop-opacity="0"/></radialGradient>
-  <linearGradient id="orb" x2="1" y2="1"><stop stop-color="#236c76"/><stop offset=".6" stop-color="#122a40"/><stop offset="1" stop-color="#251c46"/></linearGradient>
-  <linearGradient id="border"><stop stop-color="#65e1c6"/><stop offset="1" stop-color="#9aabff"/></linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8cb8ff" stroke-opacity=".035"/></pattern>
+  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#162015"/><stop offset="1" stop-color="#101411"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#b5e98a" stop-opacity=".2"/><stop offset="1" stop-color="#b5e98a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="orb" x2="1" y2="1"><stop stop-color="#2c4a24"/><stop offset=".6" stop-color="#16221a"/><stop offset="1" stop-color="#0f150f"/></linearGradient>
+  <linearGradient id="border"><stop stop-color="#d2f7ab"/><stop offset="1" stop-color="#86c95a"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1.1" fill="#d2f7ab" fill-opacity=".09"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <clipPath id="frame"><rect x="1" y="1" width="958" height="338" rx="24"/></clipPath>
 </defs>
-<rect x="1" y="1" width="958" height="338" rx="24" fill="url(#background)" stroke="#24364a"/>
+<rect x="1" y="1" width="958" height="338" rx="24" fill="url(#background)" stroke="#2c3a28"/>
 <g clip-path="url(#frame)"><rect width="960" height="340" fill="url(#grid)"/>
 <circle cx="757" cy="166" r="211" fill="url(#halo)"/>{stars}
-<path d="M532 340V300H568V318H596V284H624V303H647V271H668V302H702V286H738V316H764V279H795V295H825V258H840V276H858V304H884V287H918V267H942V298H960V340Z" fill="#142638" opacity=".8"/>
-<path d="M590 314H609M636 324H655M717 314H729M803 319H818M876 330H885M928 292H935" stroke="#65e1c6" stroke-opacity=".28" stroke-width="3"/>
+<path d="M532 340V300H568V318H596V284H624V303H647V271H668V302H702V286H738V316H764V279H795V295H825V258H840V276H858V304H884V287H918V267H942V298H960V340Z" fill="#18241a" opacity=".8"/>
+<path d="M590 314H609M636 324H655M717 314H729M803 319H818M876 330H885M928 292H935" stroke="#d2f7ab" stroke-opacity=".28" stroke-width="3"/>
 <g class="float">
-  <circle cx="754" cy="165" r="119" fill="none" stroke="#314a61" stroke-dasharray="2 10"/>
-  <g class="orbit"><ellipse cx="754" cy="165" rx="143" ry="60" fill="none" stroke="#719ec0" stroke-opacity=".45" transform="rotate(-28 754 165)"/><circle cx="881" cy="103" r="4" fill="{TEAL}"/></g>
+  <circle cx="754" cy="165" r="119" fill="none" stroke="#34492e" stroke-dasharray="2 10"/>
+  <g class="orbit"><ellipse cx="754" cy="165" rx="143" ry="60" fill="none" stroke="#8fbf6d" stroke-opacity=".45" transform="rotate(-28 754 165)"/><circle cx="881" cy="103" r="4" fill="{TEAL}"/></g>
   <circle cx="754" cy="165" r="86" fill="url(#orb)" stroke="url(#border)" stroke-width="1.5"/>
-  <circle cx="754" cy="165" r="75" fill="none" stroke="#bddbdc" stroke-opacity=".09"/>
-  {text(754,185,'RX',55,INK,750,'text-anchor="middle" letter-spacing="-3"')}
-  <path d="M725 203H783" stroke="{TEAL}" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="754" cy="165" r="75" fill="none" stroke="#d2f7ab" stroke-opacity=".09"/>
+  <text x="752" y="189" font-size="72" fill="{TEAL}" font-weight="700" text-anchor="middle" filter="url(#glow)">r<tspan font-size="55" dx="-9">×</tspan></text>
   <circle cx="675" cy="198" r="5" fill="{TEAL}" class="pulse"/>
 </g>
 </g>
@@ -63,9 +63,9 @@ def hero():
 {text(60,49,'SOFTWARE / SECURITY / SYSTEMS',11,TEAL,600,'class="mono" letter-spacing="1.5"')}
 {text(42,131,'RIDJAN',67,INK,800,'letter-spacing="-2"')}
 {text(42,201,'XHIKA',67,INK,800,'letter-spacing="-2"')}
-{text(44,245,'Curious about how it works.',20,'#b2c6d3')}
-{text(44,274,'Driven to build something useful.',20,'#b2c6d3')}
-{text(44,311,'EPITECH STUDENT  ·  LINUX ENTHUSIAST',10,'#6f899c',500,'class="mono" letter-spacing="1"')}
+{text(44,245,'Curious about how it works.',20,'#c4cbbb')}
+{text(44,274,'Driven to build something useful.',20,'#c4cbbb')}
+{text(44,311,'4TH-YEAR EPITECH STUDENT  ·  CTF PLAYER  ·  DEV-SEC.LOL',10,'#7f8a76',500,'class="mono" letter-spacing="1"')}
 <rect x="891" y="291" width="29" height="2" rx="1" fill="{TEAL}" class="blink"/>
 ''', '''
 .float { animation: drift 8s ease-in-out infinite; }
@@ -80,14 +80,14 @@ def hero():
 
 
 def project_card(filename, number, name, category, lines, tags, accent, art, css=''):
-    body = f'''<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111e2f"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>
-<rect x="1" y="1" width="466" height="212" rx="17" fill="url(#surface)" stroke="#26364b"/>
+    body = f'''<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#151d15"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>
+<rect x="1" y="1" width="466" height="212" rx="17" fill="url(#surface)" stroke="#2c3a28"/>
 <path d="M24 26H48" stroke="{accent}" stroke-width="3" stroke-linecap="round"/>
 {text(24,53,category,10,accent,600,'class="mono" letter-spacing="1.2"')}
 {text(24,91,name,29,INK,700)}
 {text(24,126,lines[0],14,MUTED)}
 {text(24,148,lines[1],14,MUTED)}
-<path d="M24 169H444" stroke="#223347"/>
+<path d="M24 169H444" stroke="#263224"/>
 {text(24,192,tags,11,accent,500,'class="mono"')}
 {text(425,192,'↗',19,accent)}
 <g transform="translate(365 32)">{art}</g>'''
@@ -115,7 +115,7 @@ def projects():
     window = f'<rect width="62" height="49" rx="6" fill="none" stroke="{TEAL}" opacity=".65"/><path d="M0 13H62" stroke="{TEAL}" opacity=".4"/><circle cx="8" cy="7" r="1.5" fill="{TEAL}"/><circle cx="14" cy="7" r="1.5" fill="{TEAL}"/><path d="M17 24L11 30L17 36M44 24L50 30L44 36M34 22L27 38" fill="none" stroke="{TEAL}" stroke-width="2" stroke-linecap="round"/>'
     project_card('project-portfolio.svg', '04', 'Portfolio', '04 — AROUND THE WEB',
                  ['More about me and the things I build.', 'A place to explore beyond the README.'],
-                 'WEB · PROJECTS · ABOUT', TEAL, window)
+                 'DEV-SEC.LOL · PROJECTS · ABOUT', TEAL, window)
 
 
 def toolkit(columns=4):
@@ -124,7 +124,7 @@ def toolkit(columns=4):
     for i,(name,description) in enumerate(tools):
         x=(i%columns)*242
         y=(i//columns)*91
-        body += f'<rect x="{x+1}" y="{y+1}" width="232" height="81" rx="12" fill="{BG}" stroke="#253649"/>'
+        body += f'<rect x="{x+1}" y="{y+1}" width="232" height="81" rx="12" fill="{BG}" stroke="#2c3a28"/>'
         body += f'<rect x="{x+16}" y="{y+19}" width="3" height="19" rx="1.5" fill="{TEAL if i%2==0 else BLUE}"/>'
         body += text(x+28,y+35,name,17,INK,600)
         body += text(x+17,y+61,description,11,MUTED)
@@ -137,11 +137,11 @@ def spotify():
     bars=''.join(f'<rect class="bar b{i}" x="{680+i*11}" y="{113-h}" width="5" height="{h}" rx="2" fill="#1ed760" opacity=".8"/>' for i,h in enumerate([17,29,22,47,33,61,45,29,39,20,32,13]))
     svg('spotify.svg',960,224,'Coding soundtrack — Best of Anime Now 2025, curated by Spotify. Open playlist on Spotify.',f'''
 <defs>
-<linearGradient id="music" x2="1" y2=".4"><stop stop-color="#101e26"/><stop offset="1" stop-color="#0b1821"/></linearGradient>
+<linearGradient id="music" x2="1" y2=".4"><stop stop-color="#121a13"/><stop offset="1" stop-color="#0e130f"/></linearGradient>
 <linearGradient id="sleeve" x2="1" y2="1"><stop stop-color="#36567c"/><stop offset=".5" stop-color="#222c53"/><stop offset="1" stop-color="#487a7a"/></linearGradient>
 <clipPath id="cover"><rect x="24" y="24" width="176" height="176" rx="12"/></clipPath>
 </defs>
-<rect x="1" y="1" width="958" height="222" rx="20" fill="url(#music)" stroke="#284334"/>
+<rect x="1" y="1" width="958" height="222" rx="20" fill="url(#music)" stroke="#2c3a28"/>
 <g clip-path="url(#cover)">
 <rect x="24" y="24" width="176" height="176" fill="url(#sleeve)"/>
 <circle cx="144" cy="69" r="28" fill="#e4f2ca" opacity=".85"/>
@@ -171,7 +171,7 @@ def spotify():
 
 def footer():
     svg('footer.svg',960,88,'Thanks for stopping by. Keep building. Keep learning.',f'''
-<path d="M0 1H960" stroke="#294554"/>
+<path d="M0 1H960" stroke="#2c3a28"/>
 {text(0,38,'KEEP BUILDING. KEEP LEARNING.',13,TEAL,600,'class="mono" letter-spacing="1.4"')}
 {text(0,65,'Thanks for stopping by — Ridjan',13,MUTED)}
 <g fill="{TEAL}"><circle cx="908" cy="48" r="3" opacity=".3"/><circle cx="925" cy="48" r="3" opacity=".6"/><circle cx="942" cy="48" r="3" class="pulse"/></g>
